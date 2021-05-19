@@ -76,6 +76,7 @@ If more info needed, contact me at hello@bootstraptemple.com.
 
 Note: I distribute this template also on my second site, Bootstrapious. License conditions are the same, you can donate on Bootstrap Temple or Bootstrapious. Thanks :)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For PWA Help Video By Traversy Media
 
